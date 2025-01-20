@@ -59,6 +59,7 @@
   - Click `Net`(default section)
     + Type `50000` in `Port Number`
     + Type `1.1.1.1` in `Key`
+    + Leave `IP` blank
   ![Windbg Configuration Kdnet](Resources/SetupKDNET/WindbgConfiguration.png)
   - Click `OK` button on the bottom
   ![Kdnet waiting for connection](Resources/SetupKDNET/KdNetWaiting.png)

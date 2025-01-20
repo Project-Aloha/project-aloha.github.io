@@ -49,6 +49,7 @@
   - 点击`Net`
     + 在`Port Number`输入`50000`
     + 在`Key`中输入`1.1.1.1`
+    + `IP`留空即可
   ![Windbg Configuration Kdnet](Resources/SetupKDNET/WindbgConfiguration.png)
   - 点击下方的`OK`
   ![Kdnet waiting for connection](Resources/SetupKDNET/KdNetWaiting.png)

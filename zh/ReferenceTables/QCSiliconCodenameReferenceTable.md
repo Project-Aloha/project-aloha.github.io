@@ -78,6 +78,18 @@
 | SD8 Gen2            | SM8550                  | KAILUA            | Kalama        |
 | SD8 Gen3            | SM8650                  | LANAI             | Pineapple     |
 | SD8 Elite Gen1      | SM8750                  | PAKALA            | Sun           |
+| SD8 Gen5            | SM8845                  |                   |               |
+| SD8 Elite 2         | SM8850                  | KAANAPALI         |               |
+
+
+## Gaming Platform
+| Chip name           | Model Number            | Bsp Codename      | HLOS Codename |
+|---------------------|-------------------------|-------------------|---------------|
+| SD G3x              | SG8175                  | LAHAINA           | Lahaina       |
+| SD G3x Gen2         | SG8275                  | KAILUA            | Kalama        |
+| SD G1 Gen2          |                         |                   |               |
+| SD G2 Gen2          |                         |                   |               |
+| SD G3 Gen3          |                         | LANAI             | Pineapple     |
 
 
 ## 可穿戴平台
@@ -100,7 +112,8 @@
 | SD 7c G3          | sc7280        | Kodiak        |
 | SD 8cx G1/G2      | sc8180x       | Poipu         |
 | SD 8cx G3         | sc8280x       | Makena        |
-| SD X Elite Gen1   | sc8380x       | Hamoa         |
+| SD X Elite Gen1   | sc8380x/x1e   | Hamoa         |
+| SD X Elite Gen2   | x2e           |               |
 
 
 ## 汽车平台

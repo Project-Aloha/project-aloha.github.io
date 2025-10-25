@@ -65,6 +65,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Setup KDNET', link: '/WindowsDebug/SetupKDNET.md'},
         { text: 'Setup KDCOM', link: '/WindowsDebug/SetupKDCOM.md'},
+        { text: 'RDP via KdNet', link: '/WindowsDebug/KdNetRDP.md'},
       ]
     },
     {

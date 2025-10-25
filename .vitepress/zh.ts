@@ -54,7 +54,8 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '教程收集', link: '/InstallationGuides/GuidesCollection'},
         { text: 'Windows安装简述', link: '/InstallationGuides/WindowsInstallation' },
-        { text: '驱动安装', link: '/InstallationGuides/InstallDrivers'}
+        { text: '驱动安装', link: '/InstallationGuides/InstallDrivers'},
+        { text: '进入USB大容量存储模式', link: '/InstallationGuides/EnterUMS'},
       ]
     },
     {

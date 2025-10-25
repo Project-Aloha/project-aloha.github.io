@@ -39,6 +39,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
         { text: 'Guides Collection', link: '/InstallationGuides/GuidesCollection'},
         { text: 'Simple Installation Guide', link: '/InstallationGuides/WindowsInstallation' },
         { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
+        { text: 'Enter UMS Mode', link: '/InstallationGuides/EnterUMS'},
         { text: 'Hide Partition', link: '/InstallationGuides/SetGPTPartitionSystemAttr.md'},
       ]
     },

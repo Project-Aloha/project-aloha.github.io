@@ -7,7 +7,7 @@
   - ESP分区的ESP FLAG必须在Windows释放前已经被正确设置
   - 手机现在处于大容量模式且连接至电脑
   - 已经阅读完[KDNET配置教程](/zh/WindowsDebug/SetupKDNET.md)且至少完整操作过一次
-  - 下载<a href="/WindowsDebug/KdNetRDP/unattend.xml" download>unattend.xml</a>
+  - 下载[unattend.xml](/WindowsDebug/KdNetRDP/unattend.xml)
 
 :::warning 注意
   无人值守只有在第一次启动时才会生效，请确认你是刚刚释放完成系统并安装完驱动。

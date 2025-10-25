@@ -34,7 +34,7 @@ After booting uefi, select `Mass Storage Mode` in the Windows boot manager.
 You may not want to edit userdata partition when it was mounted in Android or Rec.
 :::
 
-:::warn
+:::warning
 This way may not work if the device has selinux force enabled in kernel code(e.g. Oplus).
 :::
 
@@ -72,7 +72,7 @@ sh -c 'echo > /config/usb_gadget/g1/UDC; echo a600000.dwc3 > /config/usb_gadget/
 ```
 
 ## Enter UMS with initrd + android kernel
-:::warn
+:::warning
 This way may not work if the device has selinux force enabled in kernel code(e.g. Oplus).
 :::
 
@@ -104,7 +104,7 @@ fastboot boot ums.img # If boot.img
 fastboot flash vendorboot ums.img # if vendor boot
 ```
 
-:::warn
+:::warning
 Please backup your boot/vendorboot before flash. Flash them back after using ums image.
 :::
 
